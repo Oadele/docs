@@ -44,4 +44,4 @@ Key objectives:
 
 ## 📄 License
 
-Unless otherwise noted, content is provided for internal and commercial use. Attribution is appreciated but not required.
+Unless otherwise stated, content is provided for internal and commercial use. Attribution is appreciated but not required.
